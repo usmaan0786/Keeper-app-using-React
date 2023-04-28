@@ -1,9 +1,9 @@
 ## User Interface
 
-![Screenshot 2023-04-28 162749](https://user-images.githubusercontent.com/72275107/235136472-75923405-2d10-4c49-81af-459b7ff221d8.png)
+
 ![Screenshot 2023-04-28 104450](https://user-images.githubusercontent.com/72275107/235136479-ae3eec71-068e-45d5-9cb1-9b823b513186.png)
 ![Screenshot 2023-04-28 162731](https://user-images.githubusercontent.com/72275107/235136480-cfe5b4da-5c68-434e-b4e8-d4d653638229.png)
-
+![Screenshot 2023-04-28 162749](https://user-images.githubusercontent.com/72275107/235136472-75923405-2d10-4c49-81af-459b7ff221d8.png)
 
 # Getting Started with Create React App
 
