@@ -1,3 +1,5 @@
+Keeper app is a note-taking application that allows users to create notes with a title and save them for future reference. Users can easily add new notes by clicking on the "Add" button, and they can also delete notes by clicking on the delete button associated with each note. The app provides a simple and intuitive interface for managing and organizing notes, making it easy for users to keep track of important information and ideas.
+
 ## User Interface
 
 
